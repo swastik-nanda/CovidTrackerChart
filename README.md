@@ -1,21 +1,67 @@
 # COVID-19 Tracker
 
-![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
+A **COVID-19 Tracker** web application built with React, Chart.js, and Material UI. This project displays live global statistics, including infections, recoveries, and deaths, and visualizes trends using interactive charts.
 
-## Stay up to date with new projects
+---
 
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+## Preview
+
+<img src="assets/assets1.png" width="80%" alt="COVID-19 Tracker Preview">
+
+---
 
 ## Introduction
 
-This is a code repository for the corresponding video tutorial.
+This repository contains the complete source code for a COVID-19 tracking web app.  
+The project showcases live data fetched from a public API, with user-friendly cards, charts, and a responsive visual design.
 
-In this video, we will create a full COVID-19 Tracker. We're going to use React, Charts.JS and Material UI.
+You will learn how to:
 
-By the end of this video, you will have a strong understanding of React's workflow and the use of hooks.
+- Fetch live API data and integrate it into a React app
+- Use React hooks for state and lifecycle management
+- Visualize complex data using Chart.js
+- Style components with Material UI
 
-API used: https://covid19.mathdro.id/api
+**API used:** [https://covid19.mathdro.id/api](https://covid19.mathdro.id/api)
 
-Setup:
+---
 
-- run `npm i && npm start`
+## Setup Instructions
+
+Clone the repository and install dependencies:
+
+git clone https://github.com/swastik-nanda/CovidTrackerChart.git
+cd CovidTrackerChart
+npm install
+npm start
+
+text
+
+---
+
+## Technologies Used
+
+- React JS
+- Chart.js
+- Material UI
+- Fetch API
+
+---
+
+## Project Structure
+
+CovidTrackerChart/
+├── assets/
+│ └── assets1.png
+├── src/
+├── package.json
+├── README.md
+└── ...
+
+text
+
+---
+
+## Author
+
+Made by [swastik-nanda](https://github.com/swastik-nanda)
